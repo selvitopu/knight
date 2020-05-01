@@ -1,3 +1,7 @@
+
+/*!
+ * Copyright (c) Hllboy 2016. All Rights Reserved.
+ */
 __author__ = 'US'
 import sys
 
